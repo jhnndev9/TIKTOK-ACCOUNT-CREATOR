@@ -3,24 +3,25 @@ TIKTOK ACCOUNT CREATOR AND MANAGER
 
 # Premium features
 
-- 🐍 Python requests-based architecture
-- 🔐 Secure session management
-- 🍪 Cookie/session persistence
-- 👤 Account profile management
-- 📝 Profile username & bio management
-- 🖼️ Profile picture management
-- 📤 Video upload/posting through supported interfaces
-- 🏷️ Caption and hashtag management
-- 🔒 Privacy/settings management
-- 📊 Account and post information retrieval
-- 📈 Basic post statistics
-- 🔄 Session validation and refresh
-- 🗂️ Multi-account profile/configuration management
-- 💾 JSON-based account configuration
-- 📝 Detailed request/response logging
-- 🌐 Proxy configuration support for legitimate network routing
-- 🔑 Environment-variable support for secrets
-- 🧩 Modular API/client architecture
+- Multi-account management
+- ⚡ Bulk profile management
+- 📤 Bulk content publishing
+- 🗓️ Post scheduling
+- 🏷️ Advanced caption/hashtag templates
+- 📊 Advanced account & post analytics
+- 📈 Engagement/statistics tracking
+- 🔄 Automatic session management
+- 🍪 Persistent cookie/session profiles
+- 🌐 Per-account proxy configuration
+- 🧩 Custom HTTP headers & request profiles
+- 💾 Import/export account configurations
+- 📝 Advanced logging 
+- 🔔 Notifications/webhooks
+- 🖥️ CLI + API interface
+- 🔐 Encrypted local credential/session storage
+- 📦 Plugin/module architecture
+- 🚀 Concurrent account processing with rate-limit handling
+- 📋 Detailed activity/history dashboard
 
 # TELEGRAM
 https://t.me/johnreal01
