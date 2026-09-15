@@ -22,9 +22,6 @@ TIKTOK ACCOUNT CREATOR AND MANAGER
 - 🌐 Proxy configuration support for legitimate network routing
 - 🔑 Environment-variable support for secrets
 - 🧩 Modular API/client architecture
-- 🖥️ CLI interface
-- 📦 Easy installation with requirements.txt
-- 📚 README/API documentation
 
 # TELEGRAM
 https://t.me/johnreal01
