@@ -1,6 +1,5 @@
 # TIKTOK-ACCOUNT-CREATOR
 TIKTOK ACCOUNT CREATOR AND MANAGER
-
 # Premium features
 - Multi-account management
 - ⚡ Bulk profile management
